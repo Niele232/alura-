@@ -2,3 +2,28 @@
 background: black;
 color: white;
     }
+
+
+header {
+    border: solid 2px white;
+}
+header {
+    border: solid 2px rgb(42, 122, 228);
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+}body {
+    color: white;
+    background: black;
+    margin: 0px;
+
+}header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(42, 122, 228);
+}
+
+
+
+
